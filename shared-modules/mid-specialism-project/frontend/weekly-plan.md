@@ -2,7 +2,7 @@
 
 Here is a guideline of the outcomes you should reach each week to stay on track.
 
-**How this plan works:** Each week's tasks are aligned with that week's [React](/courses/frontend/react/README.md) learning goals and session content, and move the [PRD](../product-requirements-document.md) forward in small steps. Scope is sized so it fits alongside other course homework; using AI is fine, but the goal is that you understand and can extend what you build.
+**How this plan works:** Each week's tasks are aligned with that week's [React](/courses/frontend/react/README.md) learning goals and session content, and move the [PRD](../product-requirements-document.md) forward in small steps. Scope is sized so it fits alongside other course assignments.
 Throughout all weeks, build reusable components where possible and style your components and the whole UI.
 The requirements in the [PRD](../product-requirements-document.md) and this plan are the basis; you can always do more if you wish.
 
