@@ -16,7 +16,7 @@ Note: Trainees will work in pairs to compelete the project. These pairs will hav
 - Actively work your way around the pairs, making sure everyone is making progress as they should.
 - If multiple people are facing similar challenges, take the opportunity to "pause" the session and walk through something together out loud (e.g. creating a new github repo).
 
-### The following sessions
+### The second session
 
 - Progress update: Check in on what people have completed since last week, what they found hard, questions to answer, and encourage some people to demo their progress in front of the team.
 - Teaching moment: If there were any significant issues or confusions that came up, spend some time diving into them in detail.
@@ -48,3 +48,9 @@ During the session:
 
 Share the QR code so other teams can test your game on their devices.
 ```
+
+### The final assignment
+
+After the presentation, trainees will have recently received lots of feedback and ideas for improving the app. Each trainee should choose 1 (or more) improvement to implement as a follow up assignment. The size of the change is not so important, since a small code change can significantly improve the app or fix a bug. The important part is that they choose a valuable change from the feedback and implement it.
+
+This helps close the feedback loop from the last session, and provides closure for the final state of the project before completing the course.
