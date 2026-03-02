@@ -51,6 +51,6 @@ Share the QR code so other teams can test your game on their devices.
 
 ### The final assignment
 
-After the presentation, trainees will have recently lots of feedback and some ideas for improving the app. Each trainee should choose 1 (or more) improvement to implement as a follow up assignment. The size of the change is not so important, since a small code change could have a big improvement on the app or to fix a bug. The important part is that they choose a valuable change from the feedback and implement it.
+After the presentation, trainees will have recently received lots of feedback and ideas for improving the app. Each trainee should choose 1 (or more) improvement to implement as a follow up assignment. The size of the change is not so important, since a small code change can significantly improve the app or fix a bug. The important part is that they choose a valuable change from the feedback and implement it.
 
 This helps close the feedback loop from the last session, and provides closure for the final state of the project before completing the course.
